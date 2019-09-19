@@ -1,5 +1,5 @@
-### sub26_2019
+### sum_test
 
 ---
 
-Repository for assignments
+Test assignment for first class
